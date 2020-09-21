@@ -1,4 +1,4 @@
-# SSID-Sniffer-Final-Ver-
+# SSID-Sniffer
 A project that can detect nearby SSIDs and WIFI networks with directed probe requests being broadcasted by devices.
 
 Installation

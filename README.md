@@ -3,7 +3,7 @@ A project that can detect nearby SSIDs and WIFI networks with directed probe req
 
 # Installation
 1. Install scapy - sudo pip3 install scapy
-1. Clone repository - git clone https://github.com/Zeneeth/SSID-Sniffer
+1. Clone repository - git clone https://github.com/CodingKid000/SSID-Sniffer
 1. Set wifi card to monitor mode - sudo ifconfig wlan0 down && sudo iwconfig wlan0 mode monitor && sudo ifconfig wlan0 up
 1. Run code - sudo python3 ssidSniffAndTrack.py
 
